@@ -102,7 +102,144 @@ const quotesData =[
       {"quote": "A smile is a curve that sets everything straight.", "author": "Phyllis Diller"},
       {"quote": "Happiness radiates like a fragrance from a flower and draws all good things towards you.", "author": "Maharishi Mahesh Yogi"}
     ]
+  },
+  {
+    "category": "Love",
+    "quotes": [
+      {
+        "quote": "Love recognizes no barriers. It jumps hurdles, leaps fences, penetrates walls to arrive at its destination full of hope.",
+        "author": "Maya Angelou"
+      },
+      {
+        "quote": "I love you, not only for what you are but for what I am when I am with you.",
+        "author": "Roy Croft"
+      },
+      {
+        "quote": "If I had a flower for every time I thought of you, I could walk in my garden forever.",
+        "author": "Alfred Tennyson"
+      },
+      {
+        "quote": "I love you, and that's the beginning and end of everything.",
+        "author": "F. Scott Fitzgerald"
+      },
+      {
+        "quote": "We love because it's the only true adventure.",
+        "author": "Nikki Giovanni"
+      },
+      {
+        "quote": "You are my sun, my moon, and all my stars.",
+        "author": "E.E. Cummings"
+      },
+      {
+        "quote": "The best thing to hold onto in life is each other.",
+        "author": "Audrey Hepburn"
+      },
+      {
+        "quote": "A successful marriage requires falling in love many times, always with the same person.",
+        "author": "Mignon McLaughlin"
+      },
+      {
+        "quote": "Love is not about how many days, months, or years you have been together. Love is about how much you love each other every single day.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "Love is when the other person's happiness is more important than your own.",
+        "author": "H. Jackson Brown, Jr."
+      },
+      {
+        "quote": "There is no remedy for love but to love more.",
+        "author": "Henry David Thoreau"
+      },
+      {
+        "quote": "You are my today and all of my tomorrows.",
+        "author": "Leo Christopher"
+      },
+      {
+        "quote": "To love and be loved is to feel the sun from both sides.",
+        "author": "David Viscott"
+      },
+      {
+        "quote": "I have found the one whom my soul loves.",
+        "author": "Song of Solomon 3:4"
+      },
+      {
+        "quote": "Love does not consist of gazing at each other, but in looking outward together in the same direction.",
+        "author": "Antoine de Saint-Exupéry"
+      },
+      {
+        "quote": "Love is composed of a single soul inhabiting two bodies.",
+        "author": "Aristotle"
+      },
+      {
+        "quote": "In the whole world, there is no heart for me like yours.",
+        "author": "Maya Angelou"
+      },
+      {
+        "quote": "My heart is, and always will be, yours.",
+        "author": "Jane Austen"
+      },
+      {
+        "quote": "You are my paradise, and I would happily get lost in you forever.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "I would rather spend one lifetime with you than face all the ages of this world alone.",
+        "author": "J.R.R. Tolkien"
+      }
+    ]
+  },
+  {
+    "category": "Funny",
+    "quotes": [
+      { "quote": "I'm not arguing, I'm just explaining why I'm right.", "author": "Unknown" },
+      { "quote": "Life is short. Smile while you still have teeth.", "author": "Unknown" },
+      { "quote": "A day without laughter is a day wasted.", "author": "Charlie Chaplin" },
+      { "quote": "My bed is a magical place where I suddenly remember everything I forgot to do.", "author": "Unknown" },
+      { "quote": "I am on a seafood diet. I see food, and I eat it.", "author": "Unknown" },
+      { "quote": "Common sense is like deodorant. The people who need it most never use it.", "author": "Unknown" },
+      { "quote": "I used to think I was indecisive, but now I'm not too sure.", "author": "Unknown" },
+      { "quote": "I’m not lazy, I’m just on energy-saving mode.", "author": "Unknown" },
+      { "quote": "I love my six-pack so much, I protect it with a layer of fat.", "author": "Unknown" },
+      { "quote": "If at first, you don’t succeed, then skydiving definitely isn’t for you.", "author": "Steven Wright" },
+      { "quote": "My wallet is like an onion. Opening it makes me cry.", "author": "Unknown" },
+      { "quote": "I told my wife she should embrace her mistakes. She gave me a hug.", "author": "Unknown" },
+      { "quote": "I’m not great at the advice. Can I interest you in a sarcastic comment?", "author": "Chandler Bing" },
+      { "quote": "Some people graduate with honors, I am just honored to graduate.", "author": "Unknown" },
+      { "quote": "Behind every great man is a woman rolling her eyes.", "author": "Jim Carrey" },
+      { "quote": "I don’t need a hair stylist, my pillow gives me a new hairstyle every morning.", "author": "Unknown" },
+      { "quote": "I drink coffee because without it, I’m basically a two-year-old who missed a nap.", "author": "Unknown" },
+      { "quote": "Why don’t skeletons fight each other? They don’t have the guts.", "author": "Unknown" },
+      { "quote": "My boss told me to have a good day... so I went home.", "author": "Unknown" },
+      { "quote": "I have enough money to live comfortably for the rest of my life… if I die next week.", "author": "Unknown" }
+    ]
+  },
+  {
+    "category": "Friendship",
+    "quotes": [
+      { "quote": "A real friend is one who walks in when the rest of the world walks out.", "author": "Walter Winchell" },
+      { "quote": "Friendship is born at that moment when one person says to another, ‘What! You too? I thought I was the only one.’", "author": "C.S. Lewis" },
+      { "quote": "A friend is someone who knows all about you and still loves you.", "author": "Elbert Hubbard" },
+      { "quote": "True friends are never apart, maybe in distance but never in heart.", "author": "Unknown" },
+      { "quote": "Friends are the family we choose for ourselves.", "author": "Edna Buchanan" },
+      { "quote": "Friendship is not about who you have known the longest, it's about who walked into your life and said, ‘I’m here for you,’ and proved it.", "author": "Unknown" },
+      { "quote": "A friend is someone who makes it easy to believe in yourself.", "author": "Heidi Wills" },
+      { "quote": "Good friends help you to find important things when you have lost them... your smile, your hope, and your courage.", "author": "Doe Zantamata" },
+      { "quote": "A single rose can be my garden… a single friend, my world.", "author": "Leo Buscaglia" },
+      { "quote": "Friendship is like a four-leaf clover: hard to find and lucky to have.", "author": "Irish Proverb" },
+      { "quote": "A true friend is somebody who can make us feel better no matter how bad things may be.", "author": "Ralph Waldo Emerson" },
+      { "quote": "There is nothing on this earth more to be prized than true friendship.", "author": "Thomas Aquinas" },
+      { "quote": "Friends are those rare people who ask how we are and then wait to hear the answer.", "author": "Ed Cunningham" },
+      { "quote": "A friend is what the heart needs all the time.", "author": "Henry Van Dyke" },
+      { "quote": "True friends are like stars; you don’t always see them, but you know they’re always there.", "author": "Unknown" },
+      { "quote": "Friendship is the only cement that will ever hold the world together.", "author": "Woodrow Wilson" },
+      { "quote": "The only way to have a friend is to be one.", "author": "Ralph Waldo Emerson" },
+      { "quote": "Friends are the siblings God never gave us.", "author": "Mencius" },
+      { "quote": "A real friend is one who overlooks your broken fence and admires the flowers in your garden.", "author": "Unknown" },
+      { "quote": "True friends don’t judge each other, they judge other people together.", "author": "Unknown" }
+    ]
   }
+  
+  
 ]
 ;
 
