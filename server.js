@@ -126,9 +126,16 @@ app.get('/quotes/:category', (req, res) => {
 
 
 app.get('/quotes', (req, res) => {
-  const allQuotes = quotesData.flatMap(item => item.quotes);
+  const allQuotes = quotesData.flatMap(item =>
+    item.quotes.map(quote => ({
+      category: item.category, 
+      quote: quote.quote,
+      author: quote.author
+    }))
+  );
   res.json(allQuotes);
 });
+
 
 app.listen(PORT, () => {
   console.log(`Server running on http://localhost:${PORT}`);
